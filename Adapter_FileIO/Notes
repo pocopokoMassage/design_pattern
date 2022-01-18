@@ -1,0 +1,2 @@
+1. 任意Java语句都需在某个method之中。尤其要注意Main class下的main method是否建立
+2. implement interface时要把原本的exception一同implements
